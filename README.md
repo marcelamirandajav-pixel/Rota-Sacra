@@ -1,4 +1,4 @@
-# Rota-Sacra
+:church: # Rota-Sacra
 Guia para visitação ao Patrimônio Sacro
 
 O objetivo do software é guiar usuários por rotas históricas da Igreja Católica, trazendo um breve resumo da arquitetura, história, obras de arte e o impacto cultural de cada ponto de parada. O software vai buscar igrejas históricas, capelas e monumentos católicos, funcionando não só como um buscador de trajeto para se chegar ao local, mas também com dados turístico-cultural, fotos, áudios, pequenos textos e informações diversas sobre visitação.
