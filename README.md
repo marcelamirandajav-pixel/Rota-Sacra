@@ -5,14 +5,20 @@ O objetivo do software é guiar usuários por rotas históricas da Igreja Catól
 
 # :world_map: Arquitetura e Escopo Técnico
 
-1. Funcionalidades Principais (MVP)
+- Funcionalidades Principais (MVP)
+
 •	Mapeamento e Geolocalização: Integração com mapas (Google Maps API ou Leaflet/OpenStreetMap) para traçar as rotas, mostrar os pontos de interesse (igrejas, mosteiros, monumentos) e calcular a distância/tempo técnico do percurso.
+
 •	Guia Cultural Áudio/Visual: Cada ponto de parada exibe informações históricas, fotos da arquitetura e um player de áudio (como um audioguia de museu).
+
 •	Passaporte Digital (Gamificação): Sempre que o usuário chegar fisicamente a uma igreja da rota (validado via GPS), ele ganha um "carimbo digital" em seu perfil, simulando o passaporte real de grandes caminhos de peregrinação.
 
-2. Sugestão de Stack Tecnológica
+- Tecnologias, Ferramentas e Infraestrutura
+
 •	Frontend (Interface): React Native ou Flutter (para aplicativo mobile) ou React/Vue.js (para plataforma Web responsiva).
+
 •	Backend (Servidor): Node.js (Express), Python (FastAPI/Django) ou Java (Spring Boot) para gerenciar usuários, rotas e pontos históricos.
+
 •	Banco de Dados: PostgreSQL com a extensão PostGIS ou MongoDB.
 
 # :compass: Estrutura do Banco de Dados 
@@ -36,4 +42,4 @@ O software de rota turística precisará integrar APIs de mapas (como Google Map
 A metodologia utilizada será Modelo Cascata combinado com Scrum/Agil, como o projeto mistura conteúdo de texto, histórico (que exige precisão e pesquisa prévia) com uma parte de alta interatividade técnica e comportamental (mapas, rotas GPS e um pouco de gamificação), uma abordagem unicamente de Cascata poderia engessar o aplicativo, enquanto um modelo puramente Ágil poderia trazer retrabalho na estruturação das informações históricas.
 
 # :art: Projeto de Interface
-As imagens dos projetos das telas estão nos arquivos de 1 a 10.
+As imagens do projeto das telas estão disponíveis nos arquivos de 1 a 10.
