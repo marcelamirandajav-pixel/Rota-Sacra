@@ -32,3 +32,6 @@ Como o acesso poderá ser via aplicativo ou palataforma (acessado tanto pelo nav
 # :speaker: Recursos Nativos (Mapas e Áudio):
 O software de rota turística precisará integrar APIs de mapas (como Google Maps API ou OpenStreetMap), geolocalização em tempo real e reprodutores de mídia (áudio e imagens).
 
+# 	:clipboard: Metodologias utilizadas
+A metodologia utilizada será Modelo Cascata combinado com Scrum/Agil, como o projeto mistura conteúdo de texto, histórico (que exige precisão e pesquisa prévia) com uma parte de alta interatividade técnica e comportamental (mapas, rotas GPS e um pouco de gamificação), uma abordagem unicamente de Cascata poderia engessar o aplicativo, enquanto um modelo puramente Ágil poderia trazer retrabalho na estruturação das informações históricas.
+
